@@ -9,7 +9,4 @@ Start the project using `npm start`
  - `/get-images` - Use this route to fetch all the images
  - `/get-images/imagename` - Use this route to fetch image metadata, Use imagename in the url without extension
 
- For the Project Required Do `check document.pdf` file
-
-
-# gather-image-json
+ For the Project Requirements Do check `document.pdf` file
