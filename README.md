@@ -20,7 +20,7 @@ Start the project using `npm start`
  - `/get-images/imagename` - Use this route to fetch image metadata, Use imagename in the url without extension
   - On Success Response: 
   
-  {
+  `{
     "status": true,
     "metadata": {
       "NA": {
